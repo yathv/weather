@@ -1,0 +1,7 @@
+-> create db weather
+-> import given table 'cities' sql
+
+
+-> Completed Task
+1. Autocomplete with city
+2. gets temparature 
